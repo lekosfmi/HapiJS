@@ -1,6 +1,6 @@
 ### Hapi.js' Tutorial on [Egghead.io](https://egghead.io/)
 
-Tutorial located [here](https://egghead.io/courses/introduction-to-node-servers-with-hapi-js)
+Tutorial located [here](https://egghead.io/courses/introduction-to-node-servers-with-hapi-js).
 
 #### Lessons
   1. [Up & Running](https://github.com/lekosfmi/hapi/blob/master/1.js)
