@@ -1,8 +1,8 @@
-###Hapi.js' Tutorial on [Egghead.io](https://egghead.io/)
+### Hapi.js' Tutorial on [Egghead.io](https://egghead.io/)
 
 Tutorial located [here](https://egghead.io/courses/introduction-to-node-servers-with-hapi-js)
 
-####Lessons
+#### Lessons
   1. [Up & Running](https://github.com/lekosfmi/hapi/blob/master/1.js)
   2. [Logging with good and good-console](https://github.com/lekosfmi/hapi/blob/master/2.js)
   3. [Route Parameters](https://github.com/lekosfmi/hapi/blob/master/3.js)
